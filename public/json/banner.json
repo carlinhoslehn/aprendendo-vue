@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1221,
+		"nome": "Banner 1",
+		"link": "http://lorempixel.com/900/600/sports/",
+		"image": "http://lorempixel.com/900/600/sports/",
+		"ativo": true,
+		"dt_cadastro": "2019-10-24T12:47:36+00:00",
+		"dt_atualizado": "2019-12-13T20:45:10+00:00",
+		"dt_inicio": "2019-10-25T03:00:00+00:00",
+		"dt_fim": "2020-04-26T00:00:00+00:00",
+		"position": 1
+	},
+	{
+		"id": 1921,
+		"nome": "Banner 2",
+		"link": "http://lorempixel.com/900/600/sports/",
+		"image": "http://lorempixel.com/900/600/sports/",
+		"ativo": true,
+		"dt_cadastro": "2019-10-24T12:47:36+00:00",
+		"dt_atualizado": "2019-12-13T20:45:10+00:00",
+		"dt_inicio": "2019-10-25T03:00:00+00:00",
+		"dt_fim": "2020-04-26T00:00:00+00:00",
+		"position": 1
+	},
+	{
+		"id": 1021,
+		"nome": "Banner 3",
+		"link": "http://lorempixel.com/900/600/sports/",
+		"image": "http://lorempixel.com/900/600/sports/",
+		"ativo": true,
+		"dt_cadastro": "2019-10-24T12:47:36+00:00",
+		"dt_atualizado": "2019-12-13T20:45:10+00:00",
+		"dt_inicio": "2019-10-25T03:00:00+00:00",
+		"dt_fim": "2020-04-26T00:00:00+00:00",
+		"position": 1
+	},
+	{
+		"id": 1022,
+		"nome": "Banner 4",
+		"link": "http://lorempixel.com/900/600/sports/",
+		"image": "http://lorempixel.com/900/600/sports/",
+		"ativo": true,
+		"dt_cadastro": "2019-10-24T12:48:57+00:00",
+		"dt_atualizado": "2019-12-13T20:45:10+00:00",
+		"dt_inicio": "2019-10-25T05:00:00+00:00",
+		"dt_fim": "2020-04-20T00:00:00+00:00",
+		"position": 2
+	},
+	{
+		"id": 1019,
+		"nome": "Banner 5",
+		"link": "http://lorempixel.com/900/600/sports/",
+		"image": "http://lorempixel.com/900/600/sports/",
+		"ativo": true,
+		"dt_cadastro": "2019-09-30T21:10:06+00:00",
+		"dt_atualizado": "2019-12-13T20:45:10+00:00",
+		"dt_inicio": "2019-10-01T00:01:00+00:00",
+		"dt_fim": "2020-03-31T23:59:00+00:00",
+		"position": 3
+	}
+]
